@@ -1,0 +1,6 @@
+{
+  "name": "Civic Pulse - Design System & Spec",
+  "description": "Design system specification and live interactive preview for Civic Pulse: India-wide citizen infrastructure signal and recommendation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
